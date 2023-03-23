@@ -5,7 +5,7 @@ A collection of data science projects to demonstrate knowledge and skill sets on
 [Dashboards](#Dashboards)
 
 
-[Data Analysis & Machine Learning](#Data-Analysis-&-Machine-Learning)
+[Exploratory Data Analysis & Machine Learning](#Exploratory-Data-Analysis-&-Machine-Learning)
 
 
 [SQL](#SQL)

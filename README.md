@@ -15,18 +15,23 @@ Where the most recent projects are at the top for each category.
 
 Project Title | Description 
 --- | --- 
-[Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) |
-[Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) | 
 [Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | 
+[Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) |
+[Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) |
+ 
+
 
 # EDA & Machine Learning
 
 Project Title | Area | Description
 --- | --- | ---
-[Astronauts](https://github.com/frantzalexander/Astronauts)| EDA | 
-[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Linear Regression Analysis
 [Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | EDA | 
 [Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - ARMA Model | 
+[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Linear Regression Analysis
+[Astronauts](https://github.com/frantzalexander/Astronauts)| EDA | 
+
+
+
 
 
 # Python

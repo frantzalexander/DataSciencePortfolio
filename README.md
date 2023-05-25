@@ -1,5 +1,8 @@
 # DataSciencePortfolio
-A collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
+A portfolio collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
+
+The projects placed in descending order. 
+Where the most recent projects are at the top for each category. 
 
 # Table of Contents
 [Dashboards](#Dashboards)

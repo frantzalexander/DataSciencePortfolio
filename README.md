@@ -26,8 +26,8 @@ Project Title | Description
 Project Title | Area | Description
 --- | --- | ---
 [Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | EDA | 
-[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - ARMA Model | 
-[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Linear Regression Analysis
+[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARMA Model | 
+[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis
 [Astronauts](https://github.com/frantzalexander/Astronauts)| EDA | 
 
 

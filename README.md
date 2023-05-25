@@ -16,7 +16,7 @@ Project Title | Description
 [Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) | 
 [Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | 
 
-# Exploratory Data Analysis & Machine Learning
+# EDA & Machine Learning
 
 Project Title | Area | Description
 --- | --- | ---
@@ -24,3 +24,8 @@ Project Title | Area | Description
 [California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Linear Regression Analysis
 [Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | EDA | 
 [Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - ARMA Model | 
+
+
+# Python
+Project Title | Area | Description
+--- | --- | ---

@@ -37,3 +37,4 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Beginner | Learning string formatting and numerical operators.

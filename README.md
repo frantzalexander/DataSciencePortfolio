@@ -37,5 +37,5 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods and conditional statements
+[True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods and conditional statements.
 [Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Input Functions & F-String Literals  | String formatting and numerical operators.

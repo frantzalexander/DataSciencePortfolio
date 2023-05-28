@@ -37,4 +37,5 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Beginner | String formatting and numerical operators.
+[True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods & Conditional statements
+[Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Input Functions & F-String Literals  | String formatting and numerical operators.

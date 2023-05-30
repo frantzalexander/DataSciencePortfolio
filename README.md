@@ -1,7 +1,9 @@
 # DataSciencePortfolio
 A portfolio collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
 
-The projects placed in descending order. 
+The projects are placed in descending order. 
+
+
 Where the most recent projects are at the top for each category. 
 
 # Table of Contents
@@ -37,5 +39,6 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[Rock-Paper-Scissors](https://github.com/frantzalexander/Rock-Paper-Scissors) | Conditional Statements | User input is collected and the random library is used with python lists to simulate the computer choice. Conditional statements and operands establish the basis for the conditions of the game.  
 [True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods and conditional statements.
 [Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Input Functions & F-String Literals  | String formatting and numerical operators.

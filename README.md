@@ -39,6 +39,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[Password Generator](https://github.com/frantzalexander/Passgenerator) | For loops & Random Library | User input is collected for the quatity of letters, numbers and symbols in the password. 
 [Rock-Paper-Scissors](https://github.com/frantzalexander/Rock-Paper-Scissors) | Conditional Statements | User input is collected and the random library is used with python lists to simulate the computer choice. Conditional statements and operands establish the basis for the conditions of the game.  
 [True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods and conditional statements.
 [Tip Calculator](https://github.com/frantzalexander/TipCalculator/tree/main) | Input Functions & F-String Literals  | String formatting and numerical operators.

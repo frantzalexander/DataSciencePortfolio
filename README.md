@@ -39,7 +39,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[💡 Hangman Game ](https://github.com/frantzalexander/hangman) | Loops & Control Flow | Importing user defined modules containing ascii art and a word list. The main game consists of while and for loops with control flow to establish the conditions of the game. The ascii art is utilized to visually display the remaining lives of the player.
+[💡 Hangman Game ](https://github.com/frantzalexander/hangman) | Loops & Control Flow |  While and for loops are used with control flow to establish the conditions of the game. User defined modules are imported containing ascii art and a word list. The purpose of the ascii art is to visually display the remaining lives of the player.
 [🔑 Password Generator](https://github.com/frantzalexander/Passgenerator) | For loops & Random Library | User input is collected for the quantity of letters, numbers and symbols in the password. 
 [✂️ Rock-Paper-Scissors ](https://github.com/frantzalexander/Rock-Paper-Scissors) | Conditional Statements | User input is collected and the random library is used with python lists to simulate the computer choice. Conditional statements and operands establish the basis for the conditions of the game.  
 [💘 True Love](https://github.com/frantzalexander/TrueLove/tree/main) | String Formatting & Conditional Statements | String methods and conditional statements.

@@ -10,7 +10,7 @@ Where the most recent projects are at the top for each category.
 [Dashboards](#Dashboards)
 
 
-[Exploratory Data Analysis & Machine Learning](#EDA & Machine Learning)
+[Exploratory Data Analysis & Machine Learning](#eda--machine-learning)
 
 
 [Python](#Python)

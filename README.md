@@ -42,6 +42,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[Higher Lower Social Media Game](https://github.com/frantzalexander/higher_lower/tree/main) | Functions, Control Flow & Loops | 
 [♠️ Blackjack Game](https://github.com/frantzalexander/blackjack) | Functions, Control Flow & Recursion | |
 [🧮 Caesar-Cipher](https://github.com/frantzalexander/Caesar-Cipher) | Functions & Control Flow | User input is collected to encrypt and decrypt a private message. 
 [💡 Hangman Game ](https://github.com/frantzalexander/hangman) | Loops & Control Flow | This is the Hangman word game. Where, the player makes guesses to discover the secret word. Ascii art is utilized as a GUI to visually display the remaining lives of the player. 

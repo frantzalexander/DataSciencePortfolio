@@ -1,8 +1,7 @@
 # DataSciencePortfolio
 A portfolio collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
 
-The projects are placed in descending order. 
-
+The projects are placed in descending order based on recency. 
 
 Where the most recent projects are at the top for each category. 
 

@@ -39,6 +39,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[🎾 The Game of Pong](https://github.com/frantzalexander/the-pong-game) | Object-Oriented Programming | Two players control paddles that bounces a ball with increasing speed.|
 [🐍 Snake Game](https://github.com/frantzalexander/snake_game) | Object Oriented Programming | The Player controls the snake and gains points by eating food within the bounds of the screen. 
 [⬆️⬇️Higher Lower Social Media Game](https://github.com/frantzalexander/higher_lower/tree/main) | Functions, Control Flow, Dictionaries & Recursion | The user makes a guess between two social media celebrities based on their follower counts. 
 [♠️ Blackjack Game](https://github.com/frantzalexander/blackjack) | Functions, Control Flow & Recursion | The Blackjack game of 21. 

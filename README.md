@@ -39,6 +39,8 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[🗺️ Project: US State Name Game](https://github.com/frantzalexander/states-guessing-game) | Object-Oriented Programming, Data Cleaning & Pandas | This is a tool to help learn the names of the states in the US.
+[📬 Project: Mail Merge](https://github.com/frantzalexander/merge_mail) | Object-Oriented Programming & Data Cleaning | This is a tool to merge names from a mailing list with a document. | 
 [🐢 The Turtle Crossing Game](https://github.com/frantzalexander/turtle_crossing) | Object-Oriented Programming | The Player guides their turtle to the other side.
 [🎾 The Game of Pong](https://github.com/frantzalexander/the-pong-game) | Object-Oriented Programming | Two players control paddles that bounces a ball with increasing speed.|
 [🐍 Snake Game](https://github.com/frantzalexander/snake_game) | Object-Oriented Programming | The Player controls the snake and gains points by eating food within the bounds of the screen. 

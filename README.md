@@ -39,7 +39,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[🎌NATO Phonetics](https://github.com/frantzalexander/nato-phonetics) | Dictionary Comprehension & Pandas | This is a tool to improve the communication for the spelling of words and names.
+[🎌NATO Phonetics](https://github.com/frantzalexander/nato-phonetics) | Dictionary, List Comprehension & Pandas | This is a tool to improve the communication for the spelling of words and names.
 [🗺️ Project: US State Name Game](https://github.com/frantzalexander/states-guessing-game) | Object-Oriented Programming, Data Cleaning & Pandas | This is a tool to help learn the names of the states in the US.
 [📬 Project: Mail Merge](https://github.com/frantzalexander/merge_mail) | Object-Oriented Programming & Data Cleaning | This is a tool to merge names from a mailing list with a document. | 
 [🐢 The Turtle Crossing Game](https://github.com/frantzalexander/turtle_crossing) | Object-Oriented Programming | The Player guides their turtle to the other side.

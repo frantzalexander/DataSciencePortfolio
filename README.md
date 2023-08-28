@@ -15,8 +15,8 @@ The most recent projects are at the top for each section.
 
 # Dashboards
 
-Project Title | Description 
---- | --- 
+Project Title |
+--- |
 [Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | 
 [Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) |
 [Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) |

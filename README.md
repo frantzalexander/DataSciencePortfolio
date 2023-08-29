@@ -18,8 +18,8 @@ The most recent projects are at the top for each section.
 Project Title | Description
 --- | ---
 [Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | The purpose of the project was to gain valuable insights to improve diversity and reduce employee churn.
-[Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) |
-[Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) |
+[Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) | A dashboard of a sample company from a course to learn Power BI.
+[Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) | This is a dashboard of a sample company that I used to learn Business Intelligence with Power BI.
  
 
 

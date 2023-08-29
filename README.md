@@ -15,9 +15,9 @@ The most recent projects are at the top for each section.
 
 # Dashboards
 
-Project Title |
---- |
-[Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | 
+Project Title | Description
+--- | ---
+[Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | The purpose of the project was to gain valuable insights to improve diversity and reduce employee churn.
 [Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) |
 [Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) |
  
@@ -27,10 +27,10 @@ Project Title |
 
 Project Title | Area | Description
 --- | --- | ---
-[Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | This project consists of an exploratory data analysis for potato chip sales of a grocery store.
-[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling | The case study is a time series analysis of the air pollution in Gangnam, Seoul in South Korea.
-[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | This analysis utilizes linear regression to predict housing prices based on neighbourhood housing prices in California.
-[Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | This exploratory data analysis aims to investigate the human space flight program from NASA. 
+[Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
+[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
+[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.
+[Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA. 
 
 
 

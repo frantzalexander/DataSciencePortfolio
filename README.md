@@ -27,10 +27,10 @@ Project Title |
 
 Project Title | Area | Description
 --- | --- | ---
-[Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | EDA | 
-[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARMA Model | 
-[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis
-[Astronauts](https://github.com/frantzalexander/Astronauts)| EDA | 
+[Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | This project consists of an exploratory data analysis for potato chip sales of a grocery store.
+[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling | The case study is a time series analysis of the air pollution in Gangnam, Seoul in South Korea.
+[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | This analysis utilizes linear regression to predict housing prices based on neighbourhood housing prices in California.
+[Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | This exploratory data analysis aims to investigate the human space flight program from NASA. 
 
 
 

@@ -22,7 +22,7 @@ Project Title | Description
 [Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) | This is a dashboard of a sample company that I used to learn Business Intelligence with Power BI.
  
 
-
+---
 # EDA & Machine Learning
 
 Project Title | Area | Description
@@ -35,7 +35,7 @@ Project Title | Area | Description
 
 
 
-
+---
 # Python
 Project Title | Area | Description
 --- | --- | ---

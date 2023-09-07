@@ -23,10 +23,11 @@ Project Title | Description
  
 
 ---
-# EDA & Machine Learning
+# Exploratory Data Analysis & Machine Learning
 
 Project Title | Area | Description
 --- | --- | ---
+[Proportion Testing](https://github.com/frantzalexander/proportion_testing) | Statistical Analysis, A/B Testing |
 [Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
 [Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
 [California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.

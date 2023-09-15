@@ -40,7 +40,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[Flashy Flash Cards](https://github.com/frantzalexander/flash-cards) | Tkinter, Exception Handling, Pandas, Object-Oriented Programming | This is a GUI tool to aid the learning of a subject. 
+[🃏Flashy Flash Cards](https://github.com/frantzalexander/flash-cards) | Tkinter, Exception Handling, Pandas, Object-Oriented Programming | This is a GUI tool to aid the learning of a subject. 
 [🔐Password Manager GUI](https://github.com/frantzalexander/password_manager_gui) | Tkinter, Pyperclip, Object-Oriented Programming, Input-Output | This is a GUI password manager that aid in the creation and retrieval of effective passwords.
 [🍅Pomodoro Timer GUI](https://github.com/frantzalexander/pomodoro_gui) | Tkinter, Object-Oriented Programming | This is a GUI tool utilizing the Pomodoro Technique to aid time management. 
 [📐Distance Converter](https://github.com/frantzalexander/distance_converter) | Tkinter | This is a tool to convert miles to kilometers utilizing a simple GUI. 

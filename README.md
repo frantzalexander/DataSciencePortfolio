@@ -40,17 +40,18 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
-[🃏Flashy Flash Cards](https://github.com/frantzalexander/flash-cards) | Tkinter, Exception Handling, Pandas, Object-Oriented Programming | This is a GUI tool to aid the learning of a subject. 
-[🔐Password Manager GUI](https://github.com/frantzalexander/password_manager_gui) | Tkinter, Pyperclip, Object-Oriented Programming, Input-Output | This is a GUI password manager that aid in the creation and retrieval of effective passwords.
-[🍅Pomodoro Timer GUI](https://github.com/frantzalexander/pomodoro_gui) | Tkinter, Object-Oriented Programming | This is a GUI tool utilizing the Pomodoro Technique to aid time management. 
-[📐Distance Converter](https://github.com/frantzalexander/distance_converter) | Tkinter | This is a tool to convert miles to kilometers utilizing a simple GUI. 
-[🎌NATO Phonetics](https://github.com/frantzalexander/nato-phonetics) | Dictionary, List Comprehension & Pandas | This is a tool to improve the communication for the spelling of words and names.
+[💭 Kanye Quotes](https://github.com/frantzalexander/kanye_app) | Tkinter, API | A fun GUI that displays famous quotes from Kanye West.
+[🃏 Flashy Flash Cards](https://github.com/frantzalexander/flash-cards) | Tkinter, Exception Handling, Pandas, Object-Oriented Programming | This is a GUI tool to aid the learning of a subject. 
+[🔐 Password Manager GUI](https://github.com/frantzalexander/password_manager_gui) | Tkinter, Pyperclip, Object-Oriented Programming, Input-Output | This is a GUI password manager that aid in the creation and retrieval of effective passwords.
+[🍅 Pomodoro Timer GUI](https://github.com/frantzalexander/pomodoro_gui) | Tkinter, Object-Oriented Programming | This is a GUI tool utilizing the Pomodoro Technique to aid time management. 
+[📐 Distance Converter](https://github.com/frantzalexander/distance_converter) | Tkinter | This is a tool to convert miles to kilometers utilizing a simple GUI. 
+[🎌 NATO Phonetics](https://github.com/frantzalexander/nato-phonetics) | Dictionary, List Comprehension & Pandas | This is a tool to improve the communication for the spelling of words and names.
 [🗺️ Project: US State Name Game](https://github.com/frantzalexander/states-guessing-game) | Object-Oriented Programming, Data Cleaning & Pandas | This is a tool to help learn the names of the states in the US.
 [📬 Project: Mail Merge](https://github.com/frantzalexander/merge_mail) | Object-Oriented Programming & Data Cleaning | This is a tool to merge names from a mailing list with a document. | 
 [🐢 The Turtle Crossing Game](https://github.com/frantzalexander/turtle_crossing) | Object-Oriented Programming | The Player guides their turtle to the other side.
 [🎾 The Game of Pong](https://github.com/frantzalexander/the-pong-game) | Object-Oriented Programming | Two players control paddles that bounces a ball with increasing speed.|
 [🐍 Snake Game](https://github.com/frantzalexander/snake_game) | Object-Oriented Programming | The Player controls the snake and gains points by eating food within the bounds of the screen. 
-[⬆️⬇️Higher Lower Social Media Game](https://github.com/frantzalexander/higher_lower/tree/main) | Functions, Control Flow, Dictionaries & Recursion | The user makes a guess between two social media celebrities based on their follower counts. 
+[⬆️⬇️ Higher Lower Social Media Game](https://github.com/frantzalexander/higher_lower/tree/main) | Functions, Control Flow, Dictionaries & Recursion | The user makes a guess between two social media celebrities based on their follower counts. 
 [♠️ Blackjack Game](https://github.com/frantzalexander/blackjack) | Functions, Control Flow & Recursion | The Blackjack game of 21. 
 [🧮 Caesar-Cipher](https://github.com/frantzalexander/Caesar-Cipher) | Functions & Control Flow | User input is collected to encrypt and decrypt a private message. 
 [💡 Hangman Game ](https://github.com/frantzalexander/hangman) | Loops & Control Flow | This is the Hangman word game. Where, the player makes guesses to discover the secret word. Ascii art is utilized as a GUI to visually display the remaining lives of the player. 

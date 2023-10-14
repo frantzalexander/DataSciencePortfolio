@@ -17,9 +17,9 @@ The most recent projects are at the top for each section.
 
 Project Title | Description
 --- | ---
-[Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | The purpose of the project was to gain valuable insights to improve diversity and reduce employee churn.
-[Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) | A dashboard of a sample company from a course to learn Power BI.
-[Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) | This is a dashboard of a sample company that I used to learn Business Intelligence with Power BI.
+[📈 Human Resources Dashboard](https://github.com/frantzalexander/Dashboard-HR) | The purpose of the project was to gain valuable insights to improve diversity and reduce employee churn.
+[📊 Maven Market](https://github.com/frantzalexander/Dashboard-Maven-Markets) | A dashboard of a sample company from a course to learn Power BI.
+[📉 Maven Adventure Works](https://github.com/frantzalexander/Dashboard-Adventureworks) | This is a dashboard of a sample company that I used to learn Business Intelligence with Power BI.
  
 
 ---
@@ -27,11 +27,11 @@ Project Title | Description
 
 Project Title | Area | Description
 --- | --- | ---
-[Proportion Testing](https://github.com/frantzalexander/proportion_testing) | Statistical Analysis, A/B Testing | The project consists of a split test analysis between male and female voters.
-[Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
-[Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
-[California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.
-[Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA. 
+[🧪 Proportion Testing](https://github.com/frantzalexander/proportion_testing) | Statistical Analysis, A/B Testing | The project consists of a split test analysis between male and female voters.
+[🏪 Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
+[🏭 Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
+[🏡 California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.
+[🚀 Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA. 
 
 
 

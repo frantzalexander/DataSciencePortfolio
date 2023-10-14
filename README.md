@@ -43,7 +43,7 @@ Project Title | Area | Description
 [📈 Stock Market Notification App](https://github.com/frantzalexander/stock_news_app) | APIs, List Comprehension, Object-Oriented Programming | A stock notification app that sends recent articles by email.
 [🌞 Weather App](https://github.com/frantzalexander/weather_app) | APIs | Weather notification app that sends weather details by text message. 
 [💡 Spark of Inspiration](https://github.com/frantzalexander/spark_of_inspiration) | Tkinter, APIs, Object-Oriented Programming, Exception Handling | GUI that generates quotes from famous people and sends them to email.
-[ISS Overhead Notifier](https://github.com/frantzalexander/iss_notifier) | APIs | An app that sends a notification by email when the International Space Station is overhead and visible at night.
+[🚀 ISS Overhead Notifier](https://github.com/frantzalexander/iss_notifier) | APIs | An app that sends a notification by email when the International Space Station is overhead and visible at night.
 [💭 Kanye Quotes](https://github.com/frantzalexander/kanye_app) | Tkinter, APIs | A fun GUI that displays famous quotes from Kanye West.
 [🃏 Flashy Flash Cards](https://github.com/frantzalexander/flash-cards) | Tkinter, Exception Handling, Pandas, Object-Oriented Programming | This is a GUI tool to aid the learning of a subject. 
 [🔐 Password Manager GUI](https://github.com/frantzalexander/password_manager_gui) | Tkinter, Pyperclip, Object-Oriented Programming, Input-Output | This is a GUI password manager that aid in the creation and retrieval of effective passwords.

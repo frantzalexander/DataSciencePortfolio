@@ -40,6 +40,7 @@ Project Title | Area | Description
 # Python
 Project Title | Area | Description
 --- | --- | ---
+[Workout Tracker](https://github.com/frantzalexander/Workout_Tracker) | APIs | An exercise workout tracker that calculates the amount of calories consumed and automatically entered into a spreadsheet. 
 [📈 Stock Market Notification App](https://github.com/frantzalexander/stock_news_app) | APIs, List Comprehension, Object-Oriented Programming | A stock notification app that sends recent articles by email.
 [🌞 Weather App](https://github.com/frantzalexander/weather_app) | APIs | Weather notification app that sends weather details by text message. 
 [💡 Spark of Inspiration](https://github.com/frantzalexander/spark_of_inspiration) | Tkinter, APIs, Object-Oriented Programming, Exception Handling | GUI that generates quotes from famous people and sends them to email.

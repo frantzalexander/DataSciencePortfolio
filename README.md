@@ -7,10 +7,10 @@ The most recent projects are at the top for each section.
 [Dashboards](#Dashboards)
 
 
-[Exploratory Data Analysis & Machine Learning](#eda--machine-learning)
+[Exploratory Data Analysis & Machine Learning](#Exploratory-Data-Analysis-&-Machine-Learning)
 
 
-[Python](#Python)
+[Python Programming Projects](#Python-Programming-Projects)
 
 
 # Dashboards
@@ -23,7 +23,7 @@ Project Title | Description
  
 
 ---
-# Exploratory Data Analysis & Machine Learning
+# Exploratory Data Analysis & Machine Learning 
 
 Project Title | Area | Description
 --- | --- | ---
@@ -37,7 +37,7 @@ Project Title | Area | Description
 
 
 ---
-# Python
+# Python Programming
 Project Title | Area | Description
 --- | --- | ---
 [🏋🏽 Workout Tracker](https://github.com/frantzalexander/Workout_Tracker) | APIs | An exercise workout tracker that calculates the amount of calories consumed and automatically entered into a spreadsheet. 

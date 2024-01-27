@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Project Portfolio
 A portfolio collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
 
 The most recent projects are at the top for each section. 

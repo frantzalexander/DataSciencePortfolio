@@ -7,7 +7,7 @@ The most recent projects are at the top for each section.
 [Dashboards](#Dashboards)
 
 
-[Exploratory Data Analysis & Machine Learning](#Exploratory-Data-Analysis-%26-Machine-Learning)
+[Exploratory Data Analysis & Machine Learning](#exploratory-data-analysis-%26-machine-learning)
 
 
 [Python Programming Projects](#Python-Programming)

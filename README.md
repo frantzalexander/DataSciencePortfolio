@@ -28,6 +28,7 @@ Project Title | Description
 Project Title | Area | Description
 --- | --- | ---
 [🧪 Proportion Testing](https://github.com/frantzalexander/proportion_testing) | Statistical Analysis, A/B Testing | The project consists of a split test analysis between male and female voters.
+[💲Bankruptcy Prediction Analysis](https://github.com/frantzalexander/Taiwan_Bankruptcy_Analysis) | Feature Selection, ML | This project is an analysis to determine the factors most likely to predict company bankruptcy.
 [🏪 Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
 [🏭 Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
 [🏡 California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.

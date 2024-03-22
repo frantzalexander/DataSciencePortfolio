@@ -42,6 +42,7 @@ Project Title | Area | Description
 # Python Programming
 Project Title | Area | Description
 --- | --- | ---
+[Online Product Price Tracker](https://github.com/frantzalexander/price_tracker) |APIs, Object Oriented Programming, Webscraping | A program that tracks the price of a product on a website and sends the user an email notification when there is a deal.
 [🎶 Spotify Birthday Playlist](https://github.com/frantzalexander/birthday_playlist) | APIs, Object Oriented Programming, Webscraping | A program that creates a Spotify playlist from the top songs on the BillBoard Hot 100. 
 [🏋🏽 Workout Tracker](https://github.com/frantzalexander/Workout_Tracker) | APIs | An exercise workout tracker that calculates the amount of calories consumed and automatically entered into a spreadsheet. 
 [📈 Stock Market Notification App](https://github.com/frantzalexander/stock_news_app) | APIs, List Comprehension, Object-Oriented Programming | A stock notification app that sends recent articles by email.

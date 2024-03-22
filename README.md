@@ -32,7 +32,8 @@ Project Title | Area | Description
 [🏪 Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.
 [🏭 Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
 [🏡 California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.
-[🚀 Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA. 
+[🚀 Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA.
+[💡Machine Learning Studies](https://github.com/frantzalexander/machine_learning_studies)| Machine Learning | Collection of Courses and Topics I have studied related to Machine Learning to develop my skillsets.
 
 
 

@@ -10,7 +10,7 @@ The most recent projects are at the top for each section.
 [Exploratory Data Analysis & Machine Learning](#exploratory-data-analysis-%26-machine-learning)
 
 
-[Python Programming Projects](#Python-Programming)
+[Python Development](#Python-Development)
 
 
 # Dashboards
@@ -39,7 +39,7 @@ Project Title | Area | Description
 
 
 ---
-# Python Programming
+# Python Development
 Project Title | Area | Description
 --- | --- | ---
 [🛍️ Online Product Price Tracker](https://github.com/frantzalexander/price_tracker) |APIs, Object Oriented Programming, Webscraping | A program that tracks the price of a product on a website and sends the user an email notification when there is a deal.

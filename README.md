@@ -1,4 +1,4 @@
-# Project Portfolio
+# 🗺️ Project Portfolio
 A portfolio collection of data science projects to demonstrate knowledge and skillsets on topics I find interesting. 
 
 The most recent projects are at the top for each section. 
@@ -17,14 +17,14 @@ The most recent projects are at the top for each section.
 [Python Development](#Python-Development)
 
 ---
-# Coursework Projects
+# 📌 Coursework Projects
 Course Title | Area | Description
 --- | --- | ---
 [🧩 Machine Learning with Imbalanced Data](https://github.com/frantzalexander/Imbalanced-Datasets) | EDA, Machine Learning Classification Analysis, Machine Learning Metrics | Collection of projects related to the analysis of imbalanced datasets. 
 [💡 Machine Learning Studies](https://github.com/frantzalexander/machine_learning_studies)| EDA, ML Classification, ML Regression | Collection of Courses and Topics I have studied related to Machine Learning.
 
 ---
-# Dashboards
+# 🗽 Dashboards
 
 Project Title | Description
 --- | ---
@@ -34,7 +34,7 @@ Project Title | Description
  
 
 ---
-# Exploratory Data Analysis & Machine Learning 
+# 🧩 Exploratory Data Analysis & Machine Learning 
 
 Project Title | Area | Description
 --- | --- | ---
@@ -46,7 +46,7 @@ Project Title | Area | Description
 [🚀 Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA.
 
 ---
-# Python Development
+# 🐍 Python Development
 Project Title | Area | Description
 --- | --- | ---
 [🛍️ Online Product Price Tracker](https://github.com/frantzalexander/price_tracker) |APIs, Object Oriented Programming, Webscraping | A program that tracks the price of a product on a website and sends the user an email notification when there is a deal.

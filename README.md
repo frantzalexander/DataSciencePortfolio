@@ -15,7 +15,14 @@ The most recent projects are at the top for each section.
 
 [Python Development](#Python-Development)
 
+---
+# Coursework Projects
+Course Title | Area | Description
+--- | --- | ---
+[🧩 Machine Learning with Imbalanced Data](https://github.com/frantzalexander/Imbalanced-Datasets) | EDA, Machine Learning Classification Analysis, Machine Learning Metrics | Collection of projects related to the analysis of imbalanced datasets. 
+[💡 Machine Learning Studies](https://github.com/frantzalexander/machine_learning_studies)| EDA, ML Classification, ML Regression | Collection of Courses and Topics I have studied related to Machine Learning.
 
+---
 # Dashboards
 
 Project Title | Description
@@ -36,17 +43,6 @@ Project Title | Area | Description
 [🏭 Seoul Air Pollution Analysis](https://github.com/frantzalexander/Seoul-Air-Analysis) | ML - Time Series Analysis ARIMA Modeling |  Time series analysis of air pollution in Gangnam, Seoul in South Korea.
 [🏡 California Housing Analysis](https://github.com/frantzalexander/California-Housing-Repo) | ML - Regression Analysis | Linear Regression analysis to predict housing prices based on neighbourhood housing prices in California.
 [🚀 Astronauts](https://github.com/frantzalexander/Astronauts)| Exploratory Data Analysis | Exploratory data analysis to investigate the human space flight program from NASA.
-
-
-
----
-# Coursework Projects
-Course Title | Area | Description
---- | --- | ---
-[🧩 Machine Learning with Imbalanced Data](https://github.com/frantzalexander/Imbalanced-Datasets) | EDA, Machine Learning Classification, Metrics | Collection of projects related to the analysis of imbalanced datasets. 
-[💡 Machine Learning Studies](https://github.com/frantzalexander/machine_learning_studies)| Machine Learning, Imbalanced Datasets, Feature Selection | Collection of Courses and Topics I have studied related to Machine Learning.
-
-
 
 ---
 # Python Development

@@ -10,6 +10,9 @@ The most recent projects are at the top for each section.
 [Exploratory Data Analysis & Machine Learning](#exploratory-data-analysis-%26-machine-learning)
 
 
+[Coursework Projects](#Coursework-Projects)
+
+
 [Python Development](#Python-Development)
 
 

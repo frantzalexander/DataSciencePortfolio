@@ -3,7 +3,7 @@ A portfolio collection of data science projects to demonstrate knowledge and ski
 
 The most recent projects are at the top for each section. 
 
-## Table of Contents
+## 🔖Table of Contents
 
 [Coursework Projects](#Coursework-Projects)
 

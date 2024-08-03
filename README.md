@@ -38,6 +38,7 @@ Project Title | Description
 
 Project Title | Area | Description
 --- | --- | ---
+[🚗 Car Fuel Efficiency Analysis](https://github.com/frantzalexander/Auto_MPG) | Regression Analysis, Feature Selection, Hyperparameter Tuning | The project is an analysis of different car models and a prediction of fuel efficiency. 
 [🧪 Proportion Testing](https://github.com/frantzalexander/proportion_testing) | Statistical Analysis, A/B Testing | The project consists of a split test analysis between male and female voters.
 [💲Bankruptcy Prediction Analysis](https://github.com/frantzalexander/Taiwan_Bankruptcy_Analysis) | Feature Selection, ML | This project is an analysis to determine the factors most likely to predict company bankruptcy.
 [🏪 Quantium Consumer Analysis](https://github.com/frantzalexander/Internship-Quantium) | Exploratory Data Analysis | Exploratory data analysis of potato chip sales for a grocery store.

@@ -50,6 +50,7 @@ Project Title | Area | Description
 ## 🐍 Python Development
 Project Title | Area | Description
 --- | --- | ---
+[📝 Newsletter Signup](https://github.com/frantzalexander/newsletter_signup) | Webscraping, Exception Handling | A program that enters user data into website forms.  
 [⚔️ Monster Farm Battle Royale](https://github.com/frantzalexander/Monster_Farm) | Object Oriented Programming, Game DevOps | A game where heroes and monsters battle!
 [🛍️ Online Product Price Tracker](https://github.com/frantzalexander/price_tracker) |APIs, Object Oriented Programming, Webscraping | A program that tracks the price of a product on a website and sends the user an email notification when there is a deal.
 [🎶 Spotify Birthday Playlist](https://github.com/frantzalexander/birthday_playlist) | APIs, Object Oriented Programming, Webscraping | A program that creates a Spotify playlist from the top songs on the BillBoard Hot 100. 
